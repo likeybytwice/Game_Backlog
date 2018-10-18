@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameBacklog</string>
+    <string name="title_activity_main">Game Backlog Manager</string>
+    <string name="title_activity_update">Game Backlog Manager</string>
+</resources>
